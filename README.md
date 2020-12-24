@@ -14,6 +14,11 @@ Para consultá-lo, basta acessar: https://airtable.com/invite/l?inviteId=inv1okY
 Para consultá-lo, basta acessar: https://docs.google.com/document/d/1BFCup1RkqRBu-Nwvl11QRaechX--fCAhKmQaN2V-UiU/edit?usp=sharing
 
 ## Arquitetura da Informação
+Atualmente o desenho da arquitetura engloba as seguintes soluções do Ecossistema:
+- Hotsite Coronavírus
+- iSUS
+- Mapa da Saúde
+- id Saúde
 
 ### Links importantes
-Conectores de conteúdo para o iSUS: https://docs.google.com/spreadsheets/d/1CqqiVEWH-YchqFSTlx3NN5zG7RBpvPRUkGo_CCyLThw/edit?ts=5eaccb5c#gid=0
+Arquitetura visual da saúde (MIRO): https://miro.com/app/board/o9J_kvCsABY=/?moveToWidget=3074457352872540648&cot=14
