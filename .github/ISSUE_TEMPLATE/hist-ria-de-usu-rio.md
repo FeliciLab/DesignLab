@@ -1,7 +1,7 @@
 ---
 name: História de usuário
 about: Template para criação de tarefas
-title: Frase curta de descrição da tarefa/demanda
+title: Frase curta de descrição da tarefa/demanda com verbo de ação
 labels: ''
 assignees: ''
 
